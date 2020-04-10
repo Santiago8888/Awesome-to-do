@@ -1,0 +1,22 @@
+Release Checkpoint:
+
+I. Validate all requested features are satisfied.
+
+II. Review Git diff history.
+
+III. Run tests.
+
+IV Run Smoke Tests.
+    - App Renders.
+    - Tasks are Retrived.
+    - Status is Toggable.
+    - Edition is supported.
+    - Changes are Preserved.
+    - Mobile Responsiveness:
+        * Table
+        * Form
+        * Content
+
+V. Commit and Deploy.
+
+VI. Repéat Step four on Live Version.

@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "key": 1,
+    "name": "Database Connection",
+    "title": "Develop Queries & Mutations",
+    "completed": true
+},{
+    "id": 2,
+    "key": 2,
+    "name": "React UI",
+    "title": "Includes Tables, Forms and Content",
+    "completed": true 
+}, {
+    "id": 3,
+    "key": 3,
+    "name": "Testing",
+    "title": "Create-Delete a Task & Toggle Status",
+    "completed": true 
+}, {
+    "id": 4,
+    "key": 4,
+    "name": "TypeScript",
+    "title": "Improve Programming Experience",
+    "completed": false 
+}]
